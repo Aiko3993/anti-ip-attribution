@@ -1,0 +1,6 @@
+# anti-ip-attribution
+# non-ip/reject.list (REJECT)
+# Non-IP
+DOMAIN,httpdns.bilivideo.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn

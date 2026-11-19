@@ -1,0 +1,4 @@
+# anti-ip-attribution
+# ip/proxy.list (PROXY)
+# IP
+IP-CIDR,203.107.1.0/24,no-resolve

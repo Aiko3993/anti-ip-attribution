@@ -1,0 +1,11 @@
+# anti-ip-attribution
+# non-ip/proxy.list (PROXY)
+# Non-IP
+DOMAIN,api.bilibili.com
+DOMAIN,api.live.bilibili.com
+DOMAIN,app.bilibili.com
+DOMAIN,message.bilibili.com
+DOMAIN,passport.bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com

@@ -1,0 +1,6 @@
+# 哔哩哔哩 (Bilibili)
+# bilibili/domain-set/reject.list (REJECT)
+# DOMAIN-SET
+.data.bilibili.com
+.mcdn.bilivideo.cn
+httpdns.bilivideo.com

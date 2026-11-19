@@ -1,0 +1,11 @@
+# 哔哩哔哩 (Bilibili)
+# bilibili/domain-set/proxy.list (PROXY)
+# DOMAIN-SET
+.biliapi.com
+.biliapi.net
+.bilibili.com
+api.bilibili.com
+api.live.bilibili.com
+app.bilibili.com
+message.bilibili.com
+passport.bilibili.com

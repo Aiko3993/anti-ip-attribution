@@ -1,0 +1,9 @@
+# 哔哩哔哩 (Bilibili)
+# bilibili/non-ip/direct.list (DIRECT)
+# Non-IP
+DOMAIN-SUFFIX,api.vc.bilibili.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,szbdyd.com

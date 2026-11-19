@@ -1,0 +1,9 @@
+# anti-ip-attribution
+# domain-set/direct.list (DIRECT)
+# DOMAIN-SET
+.api.vc.bilibili.com
+.biliimg.com
+.bilivideo.cn
+.bilivideo.com
+.hdslb.com
+.szbdyd.com
